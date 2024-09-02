@@ -1,0 +1,23 @@
+﻿@using ProyectoDisArq.Utilities
+
+@if (TempData[DS.Successful] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/toastr/toastr.min.js"></script>
+    <script type="text/javascript">
+        @*tener en cuenta que para agregar propiedades a una notificacion toastr es necesario
+        tener ('mensaje','titulo',{y las propiedades})*@
+            toastr.success('@TempData[DS.Successful]', '', {
+                timeOut: 2000, closeButton: true, progressBar: true
+            });
+    </script>
+}
+
+@if (TempData[DS.Error] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/toastr/toastr.min.js"></script>
+    <script type="text/javascript">
+        toastr.error('@TempData[DS.Error]');
+    </script>
+}

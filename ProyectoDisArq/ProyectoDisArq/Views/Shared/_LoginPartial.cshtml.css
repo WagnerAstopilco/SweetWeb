@@ -1,0 +1,10 @@
+﻿.nav-item {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item:hover {
+    font-size: 1.1em;
+    font-style: italic;
+    color: white;
+}

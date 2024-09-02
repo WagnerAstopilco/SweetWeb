@@ -1,0 +1,41 @@
+﻿@using ProyectoDisArq.Utilities
+
+@{
+    ViewData["Title"]="Recetas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h2>Recetas</h2>
+                    <div>
+                        <a asp-controller="Recetas" asp-action="Create" class="btn btn-primary">
+                            <i class="bi bi-plus-square"></i>Nuevo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_recetas">
+                        <thead>
+                            <tr>
+                                <th>Opciones</th>
+                                <th>Nombre</th>
+                                <th>Descripción</th>
+                                @* <th>Preparación</th> *@
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/receta.js"></script>
+}
+

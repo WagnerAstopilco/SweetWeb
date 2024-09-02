@@ -1,0 +1,46 @@
+.row[b-1behar0s4l] {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card[b-1behar0s4l] {
+    width: 400px;
+}
+
+.card-header[b-1behar0s4l] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body[b-1behar0s4l]{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    color: darksalmon;
+}
+
+button[b-1behar0s4l] {
+    margin-bottom: 5px;
+    padding: 3px;
+    width: 30%;
+    font-size: 22px;
+    background-color: lightcoral;
+    opacity: 0.8;
+    border-radius: 10px;
+    border: solid brown;
+    color: white;
+}
+
+    button:hover[b-1behar0s4l] {
+        background-color: white;
+        color: brown;
+        border: solid lightcoral;
+    }
+
+
+.form-floating mb-3 label[b-1behar0s4l]{
+    color:darksalmon;
+}

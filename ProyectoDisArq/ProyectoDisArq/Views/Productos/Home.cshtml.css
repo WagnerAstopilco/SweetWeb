@@ -1,0 +1,6 @@
+﻿.card{
+    margin:10px;
+}
+.card-body {
+    min-height: 150px;
+}
