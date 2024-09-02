@@ -1,0 +1,60 @@
+﻿@model ProyectoDisArq.Models.ViewModels.ProductoVM
+@{
+    ViewData["Title"] = "Detalle Producto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>@ViewData["Title"]</h2>
+            </div>
+            <div class="card-body">
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Nombre</div>
+                    <div class="col">@Model.Producto.Name</div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Descripcion</div>
+                    <div class="col">@Html.Raw(Model.Producto.Descripcion)</div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Tipo de masa</div>
+                    <div class="col">@Model.Producto.Tipo_Masa</div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Tamaño</div>
+                    <div class="col">@Model.Producto.Tamagno</div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Forma</div>
+                    <div class="col">@Model.Producto.Forma</div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Costo</div>
+                    <div class="col">@Model.Producto.Costo_Base</div>
+                </div>
+                <div class="row py-2 border-bottom bg-light">
+                    <div class="col-2 fw-bold text-end">Sabor</div>
+                    <div class="col">@Model.Producto.Sabor</div>
+                </div>                
+                <div class="row py-2 border-bottom">
+                    <div class="col-2 fw-bold text-end">Categoría</div>
+                    <div class="col">@Model.Producto.Categoria.Nombre</div>
+                </div>
+                <div class="row py-2 border-bottom">
+                    <div class="col-2 fw-bold text-end">Receta</div>
+                    <div class="col">@Model.Producto.Receta.Name</div>
+                </div>
+                <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                    <a asp-controller="Productos" asp-action="Edit" asp-route-id="@Model.Producto.ProductoId" class="btn btn-warning">
+                        <i class="bi bi-pencil-square"></i>&nbsp;Editar
+                    </a>
+                    <a asp-controller="Productos" asp-action="Index" class="btn btn-primary">
+                        <i class="bi bi-arrow-return-left"></i>&nbsp;Regresar
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,102 @@
+﻿@page
+@using ProyectoDisArq.Utilities
+@model RegisterModel
+@{
+    ViewData["Title"] = "Registro";
+}
+
+@* <h1>@ViewData["Title"]</h1> *@
+
+<div class="row">
+    <div class="card">
+        <div class="card-header">
+            <img class="logo" src="~/media/logo.png" style="width:100%" />
+        </div>
+        <div class="card-body">
+            <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <h4>Crear una nueva cuenta</h4>
+                <hr />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.FirstName" class="form-control" aria-required="true" placeholder="Nombres" />
+                    <label asp-for="Input.FirstName">Nombres</label>
+                    <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.LastName" class="form-control" aria-required="true" placeholder="Nombres" />
+                    <label asp-for="Input.LastName">Apellidos</label>
+                    <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.PhoneNumber" class="form-control" aria-required="true" placeholder="985 859 844" />
+                    <label asp-for="Input.PhoneNumber">Teléfono</label>
+                    <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                    <label asp-for="Input.Email">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <label asp-for="Input.Password">Contraseña</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                    <label asp-for="Input.ConfirmPassword">Confirmar Contraseña</label>
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </div>
+
+                <!--Solo se muestra para un usuario con rol Admin-->
+                @if (User.IsInRole(DS.Admin_Role))
+                {
+                    <div class="form-floating mb-3">
+                        <select  asp-for="Input.Role" class="form-select " asp-items="@Model.Input.ListRoles">
+                            <option selected disabled>--Seleccione un rol--</option>                            
+                        </select>
+                        <label asp-for="Input.Role">Rol</label>
+                        <span asp-validation-for="Input.Role" class="text-danger"></span>
+                    </div>
+                }
+                <!--Solo se muestra para un usuario con rol Admin-->
+
+                <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Guardar</button>
+            </form>
+        </div>        
+    </div>
+    @* <div class="col-md-6 col-md-offset-2">
+        <section>
+            <h3>Use another service to register.</h3>
+            <hr />
+            @{
+                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                {
+                    <div>
+                        <p>
+                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
+                            about setting up this ASP.NET application to support logging in via external services</a>.
+                        </p>
+                    </div>
+                }
+                else
+                {
+                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                        <div>
+                            <p>
+                                @foreach (var provider in Model.ExternalLogins!)
+                                {
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                }
+                            </p>
+                        </div>
+                    </form>
+                }
+            }
+        </section>
+    </div> *@
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

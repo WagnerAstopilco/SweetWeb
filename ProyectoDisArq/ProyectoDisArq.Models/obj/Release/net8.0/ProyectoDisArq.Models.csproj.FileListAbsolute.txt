@@ -1,0 +1,12 @@
+H:\ProyectoDisArq\ProyectoDisArq.Models\bin\Release\net8.0\ProyectoDisArq.Models.deps.json
+H:\ProyectoDisArq\ProyectoDisArq.Models\bin\Release\net8.0\ProyectoDisArq.Models.dll
+H:\ProyectoDisArq\ProyectoDisArq.Models\bin\Release\net8.0\ProyectoDisArq.Models.pdb
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.csproj.AssemblyReference.cache
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.AssemblyInfoInputs.cache
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.AssemblyInfo.cs
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.csproj.CoreCompileInputs.cache
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.dll
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\refint\ProyectoDisArq.Models.dll
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ProyectoDisArq.Models.pdb
+H:\ProyectoDisArq\ProyectoDisArq.Models\obj\Release\net8.0\ref\ProyectoDisArq.Models.dll

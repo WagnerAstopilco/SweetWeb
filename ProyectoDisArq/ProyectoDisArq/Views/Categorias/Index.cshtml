@@ -1,0 +1,40 @@
+﻿@using ProyectoDisArq.Utilities
+
+@{
+    ViewData["Title"]="Categorias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h2>Categorías</h2>
+                    <div>
+                        <a asp-controller="Categorias" asp-action="Create" class="btn btn-primary">
+                            <i class="bi bi-plus-square"></i>Nuevo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_categorias">
+                        <thead>
+                            <tr>
+                                <th>Opciones</th>
+                                <th>Nombre</th>
+                                <th>Descripción</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/categoria.js"></script>
+}
+
