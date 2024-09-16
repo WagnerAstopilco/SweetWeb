@@ -3222,23 +3222,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Wagner-User\\.nuget\\packages\\": {},
+    "C:\\Users\\User-PC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\ProyectoDisArq\\ProyectoDisArq.Repositories\\ProyectoDisArq.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Repositories\\ProyectoDisArq.Repositories.csproj",
       "projectName": "ProyectoDisArq.Repositories",
-      "projectPath": "G:\\ProyectoDisArq\\ProyectoDisArq.Repositories\\ProyectoDisArq.Repositories.csproj",
-      "packagesPath": "C:\\Users\\Wagner-User\\.nuget\\packages\\",
-      "outputPath": "G:\\ProyectoDisArq\\ProyectoDisArq.Repositories\\obj\\",
+      "projectPath": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Repositories\\ProyectoDisArq.Repositories.csproj",
+      "packagesPath": "C:\\Users\\User-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Wagner-User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3254,11 +3254,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\ProyectoDisArq\\ProyectoDisArq.Models\\ProyectoDisArq.Models.csproj": {
-              "projectPath": "G:\\ProyectoDisArq\\ProyectoDisArq.Models\\ProyectoDisArq.Models.csproj"
+            "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Models\\ProyectoDisArq.Models.csproj": {
+              "projectPath": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Models\\ProyectoDisArq.Models.csproj"
             },
-            "G:\\ProyectoDisArq\\ProyectoDisArq.Persistence\\ProyectoDisArq.Persistence.csproj": {
-              "projectPath": "G:\\ProyectoDisArq\\ProyectoDisArq.Persistence\\ProyectoDisArq.Persistence.csproj"
+            "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Persistence\\ProyectoDisArq.Persistence.csproj": {
+              "projectPath": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq.Persistence\\ProyectoDisArq.Persistence.csproj"
             }
           }
         }

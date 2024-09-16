@@ -1,3 +1,6 @@
 .card[b-vc9rr2bxcz]{
     margin:10px;
 }
+.card-body[b-vc9rr2bxcz] {
+    min-height: 150px;
+}

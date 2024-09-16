@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDisArq", "ProyectoDisArq\ProyectoDisArq.csproj", "{3269F68F-0648-4ECE-96A6-C37029AA72E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDisArq", "ProyectoDisArq\ProyectoDisArq.csproj", "{3269F68F-0648-4ECE-96A6-C37029AA72E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDisArq.Models", "ProyectoDisArq.Models\ProyectoDisArq.Models.csproj", "{088A464A-2766-4AAD-A7F1-750903F00DC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDisArq.Models", "ProyectoDisArq.Models\ProyectoDisArq.Models.csproj", "{088A464A-2766-4AAD-A7F1-750903F00DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDisArq.Persistence", "ProyectoDisArq.Persistence\ProyectoDisArq.Persistence.csproj", "{4564E058-A887-4192-B005-EDDFAEF984C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDisArq.Persistence", "ProyectoDisArq.Persistence\ProyectoDisArq.Persistence.csproj", "{4564E058-A887-4192-B005-EDDFAEF984C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDisArq.Repositories", "ProyectoDisArq.Repositories\ProyectoDisArq.Repositories.csproj", "{86B27DC9-C713-4F23-B589-95A200BD4FD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDisArq.Repositories", "ProyectoDisArq.Repositories\ProyectoDisArq.Repositories.csproj", "{86B27DC9-C713-4F23-B589-95A200BD4FD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDisArq.Utilities", "ProyectoDisArq.Utilities\ProyectoDisArq.Utilities.csproj", "{50943BB5-D260-49DB-A202-56DF83C140B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDisArq.Utilities", "ProyectoDisArq.Utilities\ProyectoDisArq.Utilities.csproj", "{50943BB5-D260-49DB-A202-56DF83C140B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelTest", "ModelTest\ModelTest.csproj", "{0026BF59-B48D-49F3-9711-6E6E8022E18F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{50943BB5-D260-49DB-A202-56DF83C140B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50943BB5-D260-49DB-A202-56DF83C140B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50943BB5-D260-49DB-A202-56DF83C140B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0026BF59-B48D-49F3-9711-6E6E8022E18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0026BF59-B48D-49F3-9711-6E6E8022E18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0026BF59-B48D-49F3-9711-6E6E8022E18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0026BF59-B48D-49F3-9711-6E6E8022E18F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

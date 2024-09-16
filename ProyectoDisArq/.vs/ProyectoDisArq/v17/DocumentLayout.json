@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\ProyectoDisArq\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +43,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestCliente.cs",
+              "RelativeDocumentMoniker": "ModelTest\\TestCliente.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestCliente.cs",
+              "RelativeToolTip": "ModelTest\\TestCliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:32:12.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestAdministrador.cs",
+              "RelativeDocumentMoniker": "ModelTest\\TestAdministrador.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestAdministrador.cs",
+              "RelativeToolTip": "ModelTest\\TestAdministrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:32:10.655Z",
+              "EditorCaption": ""
             }
           ]
         }

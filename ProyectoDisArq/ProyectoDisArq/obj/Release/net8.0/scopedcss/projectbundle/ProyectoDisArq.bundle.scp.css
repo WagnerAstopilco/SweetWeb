@@ -96,6 +96,9 @@ button[b-1behar0s4l] {
 .card[b-vc9rr2bxcz]{
     margin:10px;
 }
+.card-body[b-vc9rr2bxcz] {
+    min-height: 150px;
+}
 /* _content/ProyectoDisArq/Views/Productos/Pies.cshtml.rz.scp.css */
 .card[b-wx6tum7pzk] {
     margin: 10px;

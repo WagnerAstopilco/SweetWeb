@@ -47,3 +47,16 @@ G:\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utili
 G:\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\refint\ProyectoDisArq.Utilities.dll
 G:\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.pdb
 G:\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ref\ProyectoDisArq.Utilities.dll
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\bin\Debug\net8.0\ProyectoDisArq.Utilities.deps.json
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\bin\Debug\net8.0\ProyectoDisArq.Utilities.dll
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\bin\Debug\net8.0\ProyectoDisArq.Utilities.pdb
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.csproj.AssemblyReference.cache
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.AssemblyInfoInputs.cache
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.AssemblyInfo.cs
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.sourcelink.json
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.dll
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\refint\ProyectoDisArq.Utilities.dll
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ProyectoDisArq.Utilities.pdb
+C:\Users\User-PC\Desktop\SweetWeb\ProyectoDisArq\ProyectoDisArq.Utilities\obj\Debug\net8.0\ref\ProyectoDisArq.Utilities.dll

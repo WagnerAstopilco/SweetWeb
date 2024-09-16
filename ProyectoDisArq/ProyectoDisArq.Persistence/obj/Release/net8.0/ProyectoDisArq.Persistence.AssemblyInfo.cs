@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoDisArq.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+581b30a7827d681589d564dd44864fc45a026637")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoDisArq.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoDisArq.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

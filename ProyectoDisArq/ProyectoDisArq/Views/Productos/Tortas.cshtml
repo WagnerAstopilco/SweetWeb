@@ -11,7 +11,7 @@
         {
             string Product_nameComplete = @item.Name + ".jpg";
             <div class="card" style="width: 18rem;">
-                <img src="~/wwwroot/media/@Product_nameComplete" class="card-img-top" alt="@item.Name">
+                <img src="~/media/@Product_nameComplete" class="card-img-top" alt="@item.Name">
                 <div class="card-body">
                     <h5 class="card-title">@item.Name</h5>
                     <p class="card-text">@Html.Raw(item.Descripcion)</p>
