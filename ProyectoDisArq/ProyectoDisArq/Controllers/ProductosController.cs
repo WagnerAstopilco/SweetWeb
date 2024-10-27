@@ -96,12 +96,12 @@ namespace ProyectoDisArq.Controllers
         }
         public async Task<IActionResult> Tortas()
         {
-            var tortas = await _unitWork.Producto.ObtenerTodosAsync(filter:x=>x.Categoria.Nombre=="Torta");
+            var tortas = await _unitWork.Producto.ObtenerTodosAsync(filter:x=>x.Categoria.Nombre=="Tortas");
             return View(tortas);
         }
         public async Task<IActionResult> Chessecakes()
         {
-            var chessecakes = await _unitWork.Producto.ObtenerTodosAsync(filter: x => x.Categoria.Nombre == "Chessecake");
+            var chessecakes = await _unitWork.Producto.ObtenerTodosAsync(filter: x => x.Categoria.Nombre == "Chessecakes");
             return View(chessecakes);
         }
         public async Task<IActionResult> Pies()
@@ -111,7 +111,7 @@ namespace ProyectoDisArq.Controllers
         }
         public async Task<IActionResult> Galletas()
         {
-            var galletas = await _unitWork.Producto.ObtenerTodosAsync(filter: x => x.Categoria.Nombre == "Galleta");
+            var galletas = await _unitWork.Producto.ObtenerTodosAsync(filter: x => x.Categoria.Nombre == "Galletas");
             return View(galletas);
         }
 

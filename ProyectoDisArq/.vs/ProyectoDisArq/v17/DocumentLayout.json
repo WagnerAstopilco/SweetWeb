@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\views\\productos\\tortas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\views\\productos\\tortas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\views\\productos\\chessecakes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\views\\productos\\chessecakes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\views\\productos\\galletas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\views\\productos\\galletas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\views\\productos\\pies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\views\\productos\\pies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\views\\productos\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\views\\productos\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\proyectodisarq\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3269F68F-0648-4ECE-96A6-C37029AA72E2}|ProyectoDisArq\\ProyectoDisArq.csproj|solutionrelative:proyectodisarq\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|c:\\users\\user-pc\\desktop\\sweetweb\\proyectodisarq\\modeltest\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0026BF59-B48D-49F3-9711-6E6E8022E18F}|ModelTest\\ModelTest.csproj|solutionrelative:modeltest\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,29 +82,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chessecakes.cshtml",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Chessecakes.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Views\\Productos\\Chessecakes.cshtml",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Chessecakes.cshtml",
+              "RelativeToolTip": "ProyectoDisArq\\Views\\Productos\\Chessecakes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T22:35:41.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Galletas.cshtml",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Galletas.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Views\\Productos\\Galletas.cshtml",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Galletas.cshtml",
+              "RelativeToolTip": "ProyectoDisArq\\Views\\Productos\\Galletas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T22:35:33.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProyectoDisArq\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAYwGoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:34:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoDisArq\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T22:34:06.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pies.cshtml",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Pies.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Views\\Productos\\Pies.cshtml",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Pies.cshtml",
+              "RelativeToolTip": "ProyectoDisArq\\Views\\Productos\\Pies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T22:31:46.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Home.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Views\\Productos\\Home.cshtml",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Home.cshtml",
+              "RelativeToolTip": "ProyectoDisArq\\Views\\Productos\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T22:31:41.731Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tortas.cshtml",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Tortas.cshtml",
+              "RelativeDocumentMoniker": "ProyectoDisArq\\Views\\Productos\\Tortas.cshtml",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ProyectoDisArq\\Views\\Productos\\Tortas.cshtml",
+              "RelativeToolTip": "ProyectoDisArq\\Views\\Productos\\Tortas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T22:19:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestProductos.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestProductos.cs",
+              "RelativeDocumentMoniker": "ModelTest\\TestProductos.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestProductos.cs",
+              "RelativeToolTip": "ModelTest\\TestProductos.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:57:01.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestCategoria.cs",
+              "RelativeDocumentMoniker": "ModelTest\\TestCategoria.cs",
+              "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestCategoria.cs",
+              "RelativeToolTip": "ModelTest\\TestCategoria.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:41:02.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TestCliente.cs",
               "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestCliente.cs",
               "RelativeDocumentMoniker": "ModelTest\\TestCliente.cs",
               "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestCliente.cs",
               "RelativeToolTip": "ModelTest\\TestCliente.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:32:12.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T21:32:12.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "TestAdministrador.cs",
               "DocumentMoniker": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestAdministrador.cs",
               "RelativeDocumentMoniker": "ModelTest\\TestAdministrador.cs",
               "ToolTip": "C:\\Users\\User-PC\\Desktop\\SweetWeb\\ProyectoDisArq\\ModelTest\\TestAdministrador.cs",
               "RelativeToolTip": "ModelTest\\TestAdministrador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:32:10.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T21:32:10.655Z"
             }
           ]
         }
